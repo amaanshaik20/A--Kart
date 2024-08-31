@@ -41,51 +41,51 @@
 }
 
 .products #img1:hover {
-    content: url(/Images/Adidas2.jpg);
+    content: url(Adidas2.jpg);
 }
 
 .products #img2:hover {
-    content: url(/Images/puma1.jpg);
+    content: url(puma1.jpg);
 }
 
 .products #img3:hover {
-    content: url(/Images/nike1.jpg);
+    content: url(nike1.jpg);
 }
 
 .products #img4:hover {
-    content: url(/Images/UA1.jpg);
+    content: url(UA1.jpg);
 }
 
 .products #img5:hover {
-    content: url(/Images/reebok2.jpg);
+    content: url(reebok2.jpg);
 }
 
 .products #img6:hover {
-    content: url(/Images/USP1.jpg);
+    content: url(USP1.jpg);
 }
 
 .products #img7:hover {
-    content: url(/Images/Casio.jpg);
+    content: url(Casio.jpg);
 }
 
 .products #img8:hover {
-    content: url(/Images/fossil1.jpg);
+    content: url(fossil1.jpg);
 }
 
 .products #img9:hover {
-    content: url(/Images/boat1.jpg);
+    content: url(boat1.jpg);
 }
 
 .products #img10:hover {
-    content: url(/Images/fossil1.jpg);
+    content: url(fossil1.jpg);
 }
 
 .products #img11:hover {
-    content: url(/Images/boat1.jpg);
+    content: url(boat1.jpg);
 }
 
 .products #img12:hover {
-    content: url(/Images/Casio.jpg);
+    content: url(Casio.jpg);
 }
 
 @media(max-width:362px) {
